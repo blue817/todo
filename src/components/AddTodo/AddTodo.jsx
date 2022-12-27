@@ -1,4 +1,4 @@
-import React, { startTransition, useState } from 'react';
+import React, { useState } from 'react';
 // uuid 고유한 아이디를 제공해주는 라이브러리
 import { v4 as uuidv4 } from 'uuid';
 import styles from './AddTodo.module.css'
